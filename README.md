@@ -9,3 +9,6 @@ Put up for download.
 Additionally, 
 Program can be passed a folder and it will recursively wipe every photo in the folder
 and sub folders
+
+TODO: Added ability to recursively wipe all photos
+TODO: Set up website html and css / figure out web server generation and connection to python code
